@@ -1,0 +1,5 @@
+#Calcular a idade 
+ano = 2025
+ano_nasc = int(input("Digite o ano do seu nascimento:"))
+idade = ano - ano_nasc
+print("Idade em"ano"è", idade)
