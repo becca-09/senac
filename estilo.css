@@ -1,0 +1,41 @@
+* body{
+   margin : 0px;
+   padding: 0px;
+   
+}
+#topo{
+    width: 980px;
+    height: 100px;
+    background-color: darkolivegreen;
+   margin: auto; 
+}
+#menu{
+    width: 980px;
+    height: 50px;
+    background-color: chartreuse;
+    margin:auto
+}
+#container{
+    width: 980px;
+    height: 500px;
+    background-color: darkgreen;
+    margin:auto
+}
+#esquerta{
+    width: 450px;
+    height: 500px;
+    background-color: forestgreen;
+    float: left;
+}
+#direita{
+  width: 450px;
+    height: 500px;
+    background-color: green;
+    float: right;  
+}
+#rodape {
+    width: 980px;
+    height: 50px;
+    background-color: aqua;
+    margin: auto;
+}
